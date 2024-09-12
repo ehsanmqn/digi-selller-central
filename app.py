@@ -115,10 +115,10 @@ def get_product_info(product_id):
 
     # Keyword analysis
     top_keyword_analysis = {
-        "total-keywords": 5451,
-        "top-10-keywords": 877,
-        "total-search-volume": 6491241,
-        "top-10-search-volume": 1905035
+        "total_keywords": 5451,
+        "top_10_keywords": 877,
+        "total_search_volume": 6491241,
+        "top_10_search_volume": 1905035
     }
 
     seo_info['top_keyword_analysis'] = top_keyword_analysis
